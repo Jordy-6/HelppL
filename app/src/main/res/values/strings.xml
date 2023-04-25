@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HelppL</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_centre">CentreActivity</string>
+    <string name="title_activity_itineraire">ItineraireActivity</string>
+    <string name="title_info">Info</string>
 </resources>
