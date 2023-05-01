@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:id="@+id/icon1"
+       android:title="Carte"/>
+
+    <item
+        android:id="@+id/icon2"
+        android:title="Tout les centres"/>
+
+    <item
+        android:id="@+id/icon3"
+        android:title="Itinéraire"/>
+
+
+</menu>

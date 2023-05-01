@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152498121450",
+    "project_id": "helppl-b491b",
+    "storage_bucket": "helppl-b491b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152498121450:android:9aae371d3a5b14c5d40593",
+        "android_client_info": {
+          "package_name": "com.example.helppl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152498121450-sv7uvrrt4apagsi4do1p35lc1rjgb90c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBpwy3ViZ55sgD6guXghNVtrnPiRhYhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152498121450-sv7uvrrt4apagsi4do1p35lc1rjgb90c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
